@@ -1,10 +1,7 @@
 ### Hi there, I'm Mark 👋
 Welcome to my GitHub! I'm hooked on building things with Python. You're welcome to check out some of my work on my portfolio below. Thanks for dropping by!
 
-
-
 [![Website](https://img.shields.io/website?label=markryan.dev&style=for-the-badge&url=https%3A%2F%2Fmarkryan.dev)](https://www.markryan.dev)
-
 
 <br />
 
