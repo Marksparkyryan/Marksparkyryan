@@ -4,24 +4,10 @@
 
 <br />
 
-### Interests
-
-* :camera: street and urban photography
-* :chart_with_upwards_trend: value investing, options, and futures
-* :headphones: music (I pick up a guitar occassionally)
-
-<br />
-
-### Let's Connect
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Marksparkyryan | Treehouse" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/treehouse.svg" />][treehouse]
 [<img align="left" alt="Marksparkyryan | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
-
-<br />
-<br />
-
-### Languages and Frameworks
 
 <img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
@@ -39,8 +25,6 @@
 
 <br />
 <br />
-
-### Tools
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
