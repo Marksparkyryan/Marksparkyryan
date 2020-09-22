@@ -38,7 +38,7 @@ Welcome to my GitHub! I'm hooked on building things with Python. You're welcome 
 <br />
 <br />
 
-### :zap: Recent Github Activity
+### Recent Github Activity :zap:
   
 <!--START_SECTION:activity-->
 1. ❗️ Closed issue [#1](https://github.com//codeSTACKr/codestackr-vscode-theme/issues/1) in [codeSTACKr/codestackr-vscode-theme](https://github.com//codeSTACKr/codestackr-vscode-theme)
