@@ -1,5 +1,5 @@
 #### Hi there, I'm Mark 👋
-Welcome to my GitHub! I'm a web developer...
+Welcome to my GitHub! I'm hooked on building things with Python. You're welcome to check out some of my work on my portfolio below. Thanks for dropping by!
 
 
 
