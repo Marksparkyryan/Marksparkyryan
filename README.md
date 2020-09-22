@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
 ### Coding Playlidt 🎧
-[<iframe src="https://open.spotify.com/embed/playlist/4qqf6BwVpxELppdH83RhFE" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>]
+<iframe src="https://open.spotify.com/embed/playlist/4qqf6BwVpxELppdH83RhFE" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 ### Connect with me:
 
