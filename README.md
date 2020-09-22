@@ -3,8 +3,6 @@ Welcome to my GitHub! I'm hooked on building things with Python. You're welcome 
 
 [![Website](https://img.shields.io/website?label=markryan.dev&style=for-the-badge&url=https%3A%2F%2Fmarkryan.dev)](https://www.markryan.dev)
 
-<br />
-
 ### Let's Connect
 [<img align="left" alt="Marksparkyryan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Marksparkyryan | Treehouse" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/treehouse.svg" />][treehouse]
