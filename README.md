@@ -39,7 +39,7 @@ Welcome to my GitHub! I'm hooked on building things with Python. You're welcome 
 
 ### Github Stats :zap:
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Mark Ryan](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
