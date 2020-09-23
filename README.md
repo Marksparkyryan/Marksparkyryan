@@ -39,7 +39,7 @@ Welcome to my GitHub! I'm hooked on building things with Python. You're welcome 
 
 ### Github Stats :zap:
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=marksparkyryan&show_icons=true&hide_border=true" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=marksparkyryan&show_icons=true&hide_border=true&theme=graywhite" />
 
 
 [website]: https://wwww.markryan.dev
