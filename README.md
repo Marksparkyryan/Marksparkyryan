@@ -43,6 +43,7 @@ Welcome to my GitHub! I'm hooked on building things with Python. You're welcome 
 
 <img align="left" alt="Heroku" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/heroku.svg" />
 
+<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
 <br />
 <br />
 
