@@ -48,13 +48,6 @@ Welcome to my GitHub! I'm hooked on building things with Python. You're welcome 
 <br />
 
 
-### Github Stats :zap:
-
-[![Mark's github stats](https://github-readme-stats.vercel.app/api?username=marksparkyryan&show_icons=true&theme=radical)](https://github.com/marksparkyryan/github-readme-stats)
-
-
-
-
 [website]: https://wwww.markryan.dev
 [linkedin]: https://linkedin.com/in/marksparkyryan
 [treehouse]: https://teamtreehouse.com/sparky
